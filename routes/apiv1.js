@@ -1,5 +1,7 @@
 
 /*eslint-disable no-else-return, no-extra-parens, no-unused-params*/
+'use strict';
+
 var express = require('express');
 var router = express.Router();
 var REQUEST = require('request');
